@@ -50,11 +50,10 @@ I wanted this sketch to be a bit playful while still having an underlying theme 
 Indeed, as time goes by, things do change. The interaction between two completely different things is particularly appealing. Especially, when a change in one thing often triggers a corresponding change in another, which is often quite interesting. In my project, I included a song, so please turn on the speakers and immerse yourself fully while browsing. As the melody of the song flows, the changes in the song's spectrum on the interface are cleverly represented by the number of ice cream balls stacked in ice cream cones. These ice cream balls, of various flavors and arranged in an orderly manner, visually represent the intensity of different frequencies in the song's spectrum through their numbers. In the process of completing this project, I received assistance from ChatGPT. I asked ChatGPT for advice on how to load music in p5.js and how to process the distributed spectrum obtained from the music. I used the spectrum data at each moment to draw ice cream cones of corresponding heights on the canvas, thus demonstrating that time can be recorded through the changes of tangible objects.
 
 ### 🟦 Stage 4
-- Name/Alias:
-- Github account:
-- Published webpage for stage 4:
-
-*... comments to be added here*
+- Name/Alias:Kike/muscatscoconuts
+- Github account: https://github.com/muscatscoconuts
+- Published webpage for stage 4: https://muscatscoconuts.github.io/exquisite-corpse-stage-4-party-scoop/
+The first thing that came to mind when thinking about icecream was a good old fashioned ice cream party. I wanted to create a text based game where the player would navigate their way through a birthday party scenario, in which they have to RSVP, buy a gift, present the gift, and see what happens. There are about 10 different endings that you can get, and there are 4 seperate paths you can take through the game. the game is a bit silly, and slightly narcissistic (it's my birthday), and will hopefully ellicit at least one chuckle. I started out using a bunch of if/else statements to create the different paths through the game, but at the 3rd round of images the wheels started to fall off a bit and nothing was working, so I asked chatGPT where i could improve my code to make sure the images loaded in the correct sequence. chatGPT reccomended i used cases to house my if statements and then everything worked (yay). it was my first time using chatGPT, and while it took a while to get the right answer, i got to try out a bunch of different solutions that i couldnt have figured out on my own. I also took some reference from other people's stage 4 projects, and this example I found online : https://editor.p5js.org/cgberry/sketches/POFi65HT1 was very useful as a reference point. 
 
 ### 🟪 Stage 5
 - Name/Alias:
